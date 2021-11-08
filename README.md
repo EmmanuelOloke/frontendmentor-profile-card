@@ -24,14 +24,16 @@ This is the fourth challenge I'm attempting. My completion time is getting short
 
 ## Built with
 
-- HTML5 markup
-- CSS3 custom properties
-- Flexbox
+- HTML5 markup.
+- CSS3 custom properties.
+- Flexbox.
 
 ## What I learned
 
-- Improved ability working with CSS Flexbox
-- Explore CSS background positioning attribute to use two .svg images on the background
+- Improved ability working with CSS Flexbox.
+- Explore CSS background positioning attribute to use two .svg images on the background.
+- Using [ul] and [li] with CSS Flexbox to achieve horizontal text display.
+- Reduce excessive use of [px] and [%].
 
 ## Continued Development
 
