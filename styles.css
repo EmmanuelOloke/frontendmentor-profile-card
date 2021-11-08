@@ -1,11 +1,8 @@
-html,
 body {
     background: hsl(185, 75%, 39%);
-}
-
-.bg-svg {
-    background-image: url('./images/bg-pattern-bottom.svg');
-    background-size: contain;
+    background-image: url('./images/bg-pattern-top.svg'), url('./images/bg-pattern-bottom.svg');
+    background-position: right 50vw bottom 50vh, left 50vw top 50vh;
+    background-repeat: no-repeat no-repeat;
     height: 100vh;
     display: flex;
     flex-direction: column;
