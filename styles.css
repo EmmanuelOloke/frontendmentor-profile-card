@@ -24,7 +24,7 @@ body {
     position: relative;
     border-radius: 50%;
     border: 5px solid white;
-    top: -16%;
+    top: -3.5rem;
 }
 
 .deets {
@@ -63,7 +63,7 @@ hr {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    gap: 40px;
+    gap: 3.5rem;
     font-family: 'Kumbh Sans', sans-serif;
     line-height: 5px;
 }
